@@ -1,0 +1,12 @@
+body{
+	background-image: url(img/weather.jpeg);
+	background-size: cover;
+	align-content: center;
+	text-align: center;
+}
+
+#city{
+	width: 300px;
+	height: 50px;
+	margin: 150px auto 20px;
+}
